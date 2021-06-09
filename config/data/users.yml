@@ -1,0 +1,9 @@
+default key:
+
+invalid:
+  user: invalid_user
+  pwd: 12345p
+
+regular:
+  user: standard_user
+  pwd: secret_sauce
